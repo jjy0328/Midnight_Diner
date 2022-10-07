@@ -6,11 +6,26 @@
 -->
 
 ## 심야식당은 서로 다른 진로를 가진 4명이 재밌고 의미있는 프로젝트를 경험하기 위해 결성한 팀입니다.
-- 김성록 : 
-- 박선민 : 
-- 정주영 : 
-- 이은호 : 
-
+### 기존 맴버
+- 김성록 : <a href="https://github.com/LearningnRunning">
+    <img src="https://github.com/LearningnRunning.png"
+    width="25"></a>
+- 박선민 : <a href="https://github.com/firstout">
+    <img src="https://github.com/firstout.png"
+    width="25"></a>
+- 정주영 : <a href="https://github.com/jjy0328">
+    <img src="https://github.com/jjy0328.png"
+    width="25"></a>
+- 이은호 : <a href="https://github.com/xilverh0ya">
+    <img src="https://github.com/xilverh0ya.png"
+    width="25"></a>
+### 추가 맴버 add in (22.09.20 ~)
+- 김종민 : <a href="https://github.com/EvoDmiK">
+    <img src="https://github.com/EvoDmiK.png"
+    width="25"></a>
+- 최지훈 : <a href="https://github.com/ji-hun-choi">
+    <img src="https://github.com/ji-hun-choi.png"
+    width="25"></a>
 ---
 
 # 퍼스널 맛집 추천 서비스 : 취향식탁(취향 + Seek + Tag)
