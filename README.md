@@ -42,12 +42,9 @@
 
 ### 리뷰 기반 키워드 분석 서비스
     
-    <aside>
-    💡 웨이팅 정도,
+   작성중
     
-    </aside>
-    
-
+<!--
 <aside>
 ✅ 사업장명, 사업장전화번호, 현위치와의 거리, 매칭 많이된 키워드, 주메뉴, 웨이팅여부(검색시간대에 평균 웨이팅시간)
 </aside>
@@ -60,3 +57,4 @@
 </p>
 
 ## Our Notion : <a href="https://habitual-nail-f6c.notion.site/68ca5c4f895c415f9dbf818e82bcf39b?v=c1d3ca505cad4cb1b6de7ef3bfe676a3"><img src="https://img.shields.io/badge/Notion-000000?logo=Notion&logoColor=white"/></a>
+-->
